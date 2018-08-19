@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background:-o-linear-gradient(top, #000, #257eb7);
+	background:-ms-linear-gradient(top, #000, #257eb7);
+	background:-moz-linear-gradient(top, #000, #257eb7);
+	background:-webkit-linear-gradient(top, #000, #021522);
+ 	background:linear-gradient(top, #000, #257eb7);	
+}
+.firefly {
+  width:4px;
+  height:4px;
+  position:absolute;
+  background-color: #ecc45e;
+  box-shadow:0px 0px 10px 2px wheat;
+  border-radius: 50%;
+}
+
+.container {
+  margin: 0 auto;
+  height: 100vh;
+  position: relative;
+
+}
